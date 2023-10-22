@@ -12,4 +12,4 @@ N'hésitez pas à suivre notre progression sur YouTube et à consulter notre cod
 
 Suivez nos aventures sur [YouTube](https://youtu.be/DTIYVffhJuU?si=78WKz4jLboa1u0c0) et sur [GitHub](https://github.com/VotreNom/Pokedex) !
 
-![Pokédex](lien_vers_une_image_du_Pokédex)
+![Pokédex]([lien_vers_une_image_du_Pokédex](https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png)https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png)
