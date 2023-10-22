@@ -1,27 +1,15 @@
-# NgPokemonApp
+# Mon apprentissage d'Angular - Création du Pokédex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+Je suis actuellement en train d'apprendre Angular en créant un site Pokémon appelé Pokédex en collaboration avec Simon Dieny. Nous suivons les tutoriels sur YouTube pour progresser dans notre projet.
 
-## Development server
+- **Projet**: Pokédex
+- **Tutoriel YouTube**: [Voir la vidéo](https://youtu.be/DTIYVffhJuU?si=78WKz4jLboa1u0c0)
+- **Formateur**: Simon Dieny
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Ce projet est une excellente opportunité pour mettre en pratique mes compétences en Angular et développer un site Web interactif dédié à l'univers Pokémon. Je suis enthousiaste à l'idée d'apprendre de nouvelles compétences et de contribuer à ce projet.
 
-## Code scaffolding
+N'hésitez pas à suivre notre progression sur YouTube et à consulter notre code source sur GitHub si vous êtes intéressé par notre travail. C'est un excellent moyen de découvrir Angular et de plonger dans l'univers Pokémon en même temps !
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Suivez nos aventures sur [YouTube](https://youtu.be/DTIYVffhJuU?si=78WKz4jLboa1u0c0) et sur [GitHub](https://github.com/VotreNom/Pokedex) !
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Pokédex](lien_vers_une_image_du_Pokédex)
